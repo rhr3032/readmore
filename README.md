@@ -1,5 +1,5 @@
 # Read More | NUYsDev 🌸
-## [Preview](#)
+## [Preview](https://rhr3032.github.io/readmore/)
 
 
 ## About Mine
